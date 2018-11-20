@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Classic"
+title = "Carter Salz"
 theme = "hugo-classic"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -20,8 +20,8 @@ footnotereturnlinkcontents = "!"
     url = "/categories/"
     weight = 2
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Projects"
+    url = "/Categories/projects/"
     weight = 3
 [[menu.feed]]
     name = "Subscribe"
