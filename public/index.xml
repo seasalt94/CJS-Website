@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Carter Salz</title>
+    <link>/</link>
+    <description>Recent content in Home on Carter Salz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Nov 2018 21:46:06 -0600</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Infinity Mirror</title>
+      <link>/post/2018/11/19/infinity-mirror/</link>
+      <pubDate>Mon, 19 Nov 2018 21:46:06 -0600</pubDate>
+      
+      <guid>/post/2018/11/19/infinity-mirror/</guid>
+      <description>As part of an effort to get back to engineering, I&amp;rsquo;m trying to take on small projects or hobby things that make me think through a design - from idea to build I just want to make things. This was an idea I saw a couple different places online and thought it could be a nice and easy little hardware project. I liked the idea too because there are a lot of different ways you can build off of it: add programmable RGB LEDs, make the frame geometry more complex, add sensors/ functionality to the display, etc.</description>
+    </item>
+    
+    <item>
+      <title>455 Days</title>
+      <link>/post/2018/11/05/455-days/</link>
+      <pubDate>Mon, 05 Nov 2018 21:51:21 -0600</pubDate>
+      
+      <guid>/post/2018/11/05/455-days/</guid>
+      <description>455 days ago today I started work at a fairly large medical software company in Madison, Wisconsin. About 3 weeks in I realized I didn&amp;rsquo;t want to be there1 very long.
+This is something I did in high school. It took me awhile to figure out - and it doesn&amp;rsquo;t even work right yet - but hey it&amp;rsquo;s mine. I wrote it; that&amp;rsquo;s what this is supposed to be all about.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/post/2018/11/04/about-me/</link>
+      <pubDate>Sun, 04 Nov 2018 21:57:38 -0600</pubDate>
+      
+      <guid>/post/2018/11/04/about-me/</guid>
+      <description>#This is who I am:</description>
+    </item>
+    
+  </channel>
+</rss>

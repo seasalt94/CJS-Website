@@ -21,7 +21,7 @@ footnotereturnlinkcontents = "!"
     weight = 2
 [[menu.main]]
     name = "Projects"
-    url = "/Categories/projects/"
+    url = "/Categories/Project/"
     weight = 3
 [[menu.feed]]
     name = "Subscribe"
